@@ -16,4 +16,13 @@
 
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
+### Day 2: October 2, 2022
+
+**Today's Progress**: Did the navbar component and toggle menu for mobile responsiveness.
+
+**Thoughts**: Today it was more of css3 and react usestate hook.
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
 
