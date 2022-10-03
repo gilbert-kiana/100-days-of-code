@@ -24,5 +24,15 @@
 
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
+### Day 3: October 3, 2022
+
+**Today's Progress**: still working on styling the portfolio landing page with animations.
+
+**Thoughts**: Two library were really helpfull boxicons and iconsScout
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
+
 
 
