@@ -33,6 +33,15 @@
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
 
+### Day 4: October 4, 2022
+
+**Today's Progress**: added new sections about page and more sections.
+
+**Thoughts**: Most of what I did today was an improvement to what I did yesterday.
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
 
 
 
