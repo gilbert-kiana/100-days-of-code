@@ -41,6 +41,14 @@
 
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
+### Day 5: October 5, 2022
+
+**Today's Progress**: Practised on working with external api functionalities.Worked with Cocktail api.Did css for the profile page.
+
+**Thoughts**: Working with external api is fun because you get to integrate so much free functionalites easily.
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
 
 
 
