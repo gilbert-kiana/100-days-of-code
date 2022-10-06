@@ -50,6 +50,15 @@
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
 
+### Day 6: October 6, 2022
+
+**Today's Progress**: did debugging for the cocktail api fetch some requests.
+
+**Thoughts**: working with css is pretty hard without an extension you can use.
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
 
 
 
