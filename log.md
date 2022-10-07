@@ -59,6 +59,14 @@
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
 
+### Day 7: October 7, 2022
+
+**Today's Progress**: Finished the cocktai api read functions.
+**Thoughts**: Its is easier to fetch from api with no key restrictions.
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
 
 
 
