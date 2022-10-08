@@ -68,5 +68,14 @@
 
 
 
+### Day 8: October 8, 2022
+
+**Today's Progress**: added pages to my portfolio and set up boilerplate to start working with open weather api.
+
+**Thoughts**: coding on weekends can be pretty tempting had to find time to code the app.
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
 
 
