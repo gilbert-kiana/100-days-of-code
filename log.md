@@ -77,5 +77,13 @@
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
 
+### Day 9: October 9, 2022
+
+**Today's Progress**: I only coded the css files for the qualification section of the site.
+
+**Thoughts**: Css sucks bana.
+
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
 
 
