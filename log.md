@@ -86,4 +86,14 @@
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
 
+### Day 10: October 10, 2022
+
+**Today's Progress**: worked with the open weather api to learn react hooks.
+
+**Thoughts**:Today was fun,leart alot about using react hooks.Most of the errors worked.
+
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
+
+
 
