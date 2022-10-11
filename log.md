@@ -95,5 +95,14 @@
 **Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
 
 
+### Day 11: October 11, 2022
+
+**Today's Progress**: Finished the open weather project and did some styling for it to look presentable.
+
+**Thoughts**:Took almost 2 hrs just to identify a simple error.Atleast I found it
+
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
+
 
 
