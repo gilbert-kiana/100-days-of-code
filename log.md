@@ -104,5 +104,22 @@
 **Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
 
 
+### Day 12: October 12, 2022
+
+**Today's Progress**:  Started working with the fake server. Json placeholder ,practiced with crud functionality especially posting requests..
+
+**Thoughts**:worked
+
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
+
+### Day 13: October 13, 2022
+
+**Today's Progress**:  Finished working with basic json placeholder functionality api.
+
+**Thoughts**:The css styling was abit annoying.
+
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
 
 
