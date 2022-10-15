@@ -129,3 +129,11 @@
 
 **Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
 
+
+### Day 15: October 15, 2022
+
+**Today's Progress**: Working with the chuck norris api for jokes.
+**Thoughts**:Did more categories for the chuck norris api
+
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
