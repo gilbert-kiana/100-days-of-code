@@ -137,3 +137,9 @@
 
 **Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
 
+
+### Day 16: October 16, 2022
+
+**Today's Progress**: Spend most of the time debugging the code for the api and it did not work.
+**Thoughts**:Did alot of practise with the useCallback hook.
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
