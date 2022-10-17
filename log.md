@@ -143,3 +143,10 @@
 **Today's Progress**: Spend most of the time debugging the code for the api and it did not work.
 **Thoughts**:Did alot of practise with the useCallback hook.
 **Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
+
+### Day 17: October 17, 2022
+
+**Today's Progress**: Finished on the chuck norris api learnt how to categories request.
+**Thoughts**:Today was easy since I have become pretty good with api.
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
