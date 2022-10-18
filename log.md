@@ -150,3 +150,11 @@
 **Today's Progress**: Finished on the chuck norris api learnt how to categories request.
 **Thoughts**:Today was easy since I have become pretty good with api.
 **Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
+
+### Day 18: October 18, 2022
+
+**Today's Progress**: Started working on writing a note api with node js.Did the boilerplate.
+**Thoughts**:Been  a while since I have written node code and today setting up the boilerplate for the api took me a while.
+**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+
