@@ -156,5 +156,11 @@
 
 **Today's Progress**: Started working on writing a note api with node js.Did the boilerplate.
 **Thoughts**:Been  a while since I have written node code and today setting up the boilerplate for the api took me a while.
-**Link(s) to work**:  [External apis](https://github.com/gilbert-kiana/External_apis)
+**Link(s) to work**:  [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+### Day 19: October 19, 2022
+
+**Today's Progress**: Finished the notes api CRUD functionality.
+**Thoughts**:Took me a while to debug a simple line of express.json I am writing it here so as to never forget.
+**Link(s) to work**:  [Api-created](https://github.com/gilbert-kiana/Api-created)
 
