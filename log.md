@@ -164,3 +164,16 @@
 **Thoughts**:Took me a while to debug a simple line of express.json I am writing it here so as to never forget.
 **Link(s) to work**:  [Api-created](https://github.com/gilbert-kiana/Api-created)
 
+### Day 20: October 20, 2022
+
+**Today's Progress**: Started working onn the auth api crud functionality.
+**Thoughts**:setup the boiler plate code.
+**Link(s) to work**:  [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+### Day 21: October 21, 2022
+
+**Today's Progress**: Did css for my personal portfolio project.
+**Thoughts**:To be honest all i did today was based om repetition.
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
