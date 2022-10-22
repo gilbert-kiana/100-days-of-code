@@ -177,3 +177,10 @@
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
 
+### Day 22: October 22, 2022
+
+**Today's Progress**: Did css for the contact section of my personalio portfolio page.
+**Thoughts**:Being a saturday I forced myself to code for an hour.
+**Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
