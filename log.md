@@ -190,3 +190,12 @@
 **Thoughts**:Being a sunday I forced myself to code for an hour.
 **Link(s) to work**:  [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
+
+### Day 24: October 24, 2022
+
+**Today's Progress**: Did the api login and register functionality.
+**Thoughts**:learnt alot about error handling.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+
+
