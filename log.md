@@ -198,4 +198,12 @@
 **Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
 
 
+### Day 25: October 25, 2022
+
+**Today's Progress**: Added more routes on the auth api to create shoe ecommerce
+**Thoughts**:Working with routes and controllers and authenticating some routes.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+
+
 
