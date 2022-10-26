@@ -205,5 +205,12 @@
 **Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
 
 
+### Day 26: October 26, 2022
+
+**Today's Progress**: Started working on an edtech system with firebase
+**Thoughts**:Took almost 2 hours just debugging.
+**Link(s) to work**: Not yet pushed to github
+
+
 
 
