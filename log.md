@@ -211,6 +211,21 @@
 **Thoughts**:Took almost 2 hours just debugging.
 **Link(s) to work**: Not yet pushed to github
 
+### Day 27: October 27, 2022
+
+**Today's Progress**: Debugging the edtech system.
+**Thoughts**:Took almost 2 hours just debugging.
+**Link(s) to work**: Not yet pushed to github
+
+### Day 28: October 28, 2022
+
+**Today's Progress**: Footer of the website.
+**Thoughts**:Attended an event so did not code much.
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
+
+
 
 
 
