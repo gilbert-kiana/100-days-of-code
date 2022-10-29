@@ -224,6 +224,14 @@
 **Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
 
+### Day 29: October 29, 2022
+
+**Today's Progress**: Css for website.
+**Thoughts**:Saturdays are tricky
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+
+
 
 
 
