@@ -230,6 +230,83 @@
 **Thoughts**:Saturdays are tricky
 **Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
 
+### Day 30: October 30, 2022
+
+**Today's Progress**: Still doing css for the portfolio.
+**Thoughts**:NOt much work done.
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+### Day 31: October 31, 2022
+
+**Today's Progress**: Created controllers for the shoe model.
+**Thoughts**:too much debugging.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+### Day 32: November 1, 2022
+
+**Today's Progress**: Personal portfolio coding and working with redux.
+**Thoughts**:Wow kumbe redux ni complicated hivo.
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+### Day 33: November 2, 2022
+
+**Today's Progress**: Personal portfolio coding and styling with css.
+**Thoughts**:Portfolio css is always fun.
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+### Day 34: November 3, 2022
+
+**Today's Progress**: Personal portfolio coding and working with redux.
+**Thoughts**:Wow kumbe redux ni complicated hivo.
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+### Day 35: November 4, 2022
+
+**Today's Progress**: Added extra functionalities for security to api,did api documentations.
+**Thoughts**:Honestly it was my first time writing a documentation for api.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+### Day 36: November 5, 2022
+
+**Today's Progress**: Javascript fundamentals and portfolio.
+**Thoughts**:Enjoyed the lessons for javascript nuggets from John Smilga.
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+### Day 37: November 6, 2022
+
+**Today's Progress**: Personal portfolio coding.
+**Thoughts**:Almost done with the site.
+**Link(s) to work**: [Personal Profile website](https://github.com/gilbert-kiana/Personal_portfolio_ik)
+
+### Day 38: November 7, 2022
+
+**Today's Progress**: File upload api coding.
+**Thoughts**:I decided to do this to learn linking mongo images url to a different server.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+
+### Day 39: November 8, 2022
+
+**Today's Progress**: Boilerplate code for the file upload api.
+**Thoughts**:This was easy.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+
+### Day 40: November 9, 2022
+
+**Today's Progress**: File upload api writing custom errors for the api.
+**Thoughts**:This was easy too.Its like boilerplate code now.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
+
+
+
+
+
+
+
+
+
+
 
 
 
