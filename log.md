@@ -298,6 +298,12 @@
 **Thoughts**:This was easy too.Its like boilerplate code now.
 **Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)
 
+### Day 41: November 10, 2022
+
+**Today's Progress**: Did alot of redux today.
+**Thoughts**:Redux is really tricky man.
+**Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)](https://github.com/gilbert-kiana/Elite-Frontend.git)
+
 
 
 
