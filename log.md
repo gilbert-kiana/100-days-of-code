@@ -305,6 +305,19 @@
 **Link(s) to work**: [Api-created](https://github.com/gilbert-kiana/Api-created)](https://github.com/gilbert-kiana/Elite-Frontend.git)
 
 
+### Day 42: November 11, 2022
+
+**Today's Progress**: Linking auth to firebase app.
+**Thoughts**:Hiyo stuff ya firebase ni ngumu.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-Frontend.git)
+
+### Day 43: November 12, 2022
+
+**Today's Progress**: Crud functionality firebase.
+**Thoughts**:no comment.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-Frontend.git)
+
+
 
 
 
