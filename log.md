@@ -318,6 +318,27 @@
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-Frontend.git)
 
 
+### Day 44: November 13, 2022
+
+**Today's Progress**: Crud functionality hiyo edtech system.
+**Thoughts**:finally I know the solution of what to do.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-Frontend.git)
+
+
+### Day 45: November 14, 2022
+
+**Today's Progress**: Frontend of the site with react.
+**Thoughts**:coded almost 10 hours a day.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+### Day 46: November 15, 2022
+
+**Today's Progress**: Frontend of the site with react.
+**Thoughts**:Did almost 7 hours of code.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+
+
 
 
 
