@@ -337,6 +337,11 @@
 **Thoughts**:Did almost 7 hours of code.
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
+### Day 47:November 16, 2022
+**Today's Progress**: created redux store and provider and slice.
+**Thoughts**:Today was kinda held up by other stuff,coded 3 hours.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
 
 
 
