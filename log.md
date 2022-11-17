@@ -342,6 +342,11 @@
 **Thoughts**:Today was kinda held up by other stuff,coded 3 hours.
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
+### Day 48:November 17, 2022
+**Today's Progress**: styled the course page and useparams hook.
+**Thoughts**:Was tying to migrate a site the whole day.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
 
 
 
