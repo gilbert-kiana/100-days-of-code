@@ -347,6 +347,11 @@
 **Thoughts**:Was tying to migrate a site the whole day.
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
+### Day 49:November 18, 2022
+**Today's Progress**: Did the cart page and useRef and useSelector hooks.
+**Thoughts**:Today I spent atleast 5 hours of coding.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
 
 
 
