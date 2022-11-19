@@ -352,7 +352,10 @@
 **Thoughts**:Today I spent atleast 5 hours of coding.
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
-
+### Day 50:November 19, 2022
+**Today's Progress**: Login and auth system for the edtech system.
+**Thoughts**:Halfway there.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
 
 
