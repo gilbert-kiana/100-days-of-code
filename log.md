@@ -357,6 +357,12 @@
 **Thoughts**:Halfway there.
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
+### Day 51:November 20, 2022
+**Today's Progress**: React custom hook for auth.
+**Thoughts**:stuck with some error that is not working.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+
 
 
 
