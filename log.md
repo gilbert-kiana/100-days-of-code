@@ -363,6 +363,49 @@
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
 
+### Day 52:November 21, 2022
+**Today's Progress**: Working of the edtech upload form learn useparam hook.
+**Thoughts**:Not sure if I will finish this project on time.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+### Day 53:November 22, 2022
+**Today's Progress**: Today I did no coding.Worked with wordpress.
+**Thoughts**: Wordpress is quite easy.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+### Day 54:November 23, 2022
+**Today's Progress**:  Fetching snapshot keys from firebase, took a lot of time debugging this one.
+**Thoughts**: Debugging is a b**ch
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+### Day 55:November 24, 2022
+**Today's Progress**:  Fetching snapshot keys from firebase, took a lot of time debugging this one.
+**Thoughts**: Debugging is a b**ch
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+### Day 56:November 25, 2022
+**Today's Progress**:  useEffect found out a way to fetch data.
+**Thoughts**:firebase is a totally different game.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+### Day 57:November 26, 2022
+**Today's Progress**:  Fetching specific data from firebase based on Id passed in the url,useparam hook.
+**Thoughts**: nothing really.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+### Day 58:November 27, 2022
+**Today's Progress**:  Trying to loop through an array objects but it did not work.
+**Thoughts**: nothing really,did not manage to work.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
+
+
+
+
+
+
+
+
+
 
 
 
