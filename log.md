@@ -398,7 +398,10 @@
 **Thoughts**: nothing really,did not manage to work.
 **Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
-
+### Day 59:November 28, 2022
+**Today's Progress**:  Trying to upload data to firebase but it seems like it is not working.
+**Thoughts**: I guess I have achieved masterly level in debugging of firebase code.
+**Link(s) to work**: [Elite-Frontend](https://github.com/gilbert-kiana/Elite-frontend2))
 
 
 
